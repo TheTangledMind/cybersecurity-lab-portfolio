@@ -11,6 +11,8 @@ This portfolio presents work completed in intentionally vulnerable training envi
 | [Healthcare: 1 security assessment](case-studies/healthcare-1.md) | Public VulnHub CTF and TAFE study | Web application testing, risk analysis, remediation, reporting |
 | [Jangow: 1.0.1 completion summary](case-studies/jangow-1.0.1.md) | Public VulnHub CTF | Enumeration discipline and boot-to-root methodology |
 | [Cyber-range containment assessment](case-studies/cyber-range-containment-assessment.md) | Owner-operated private lab | Network isolation, virtualization boundaries, evidence-led validation |
+| [TAFE penetration-test report (student ID redacted)](featured-work/Cl_NetWebPenTest_AE_Pro2of2-Report_AB_redacted.pdf) | TAFE cybersecurity assessment / public Healthcare: 1 CTF | Formal penetration-test report, risk analysis, and remediation |
+| [Submitted CherryTree assessment notes](featured-work/healthcare-cherry.ctb.pdf) | TAFE cybersecurity assessment / public Healthcare: 1 CTF | Technical notes and evidence; contains CTF spoilers |
 
 ## Skills demonstrated
 
