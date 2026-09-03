@@ -10,6 +10,7 @@ This portfolio presents work completed in intentionally vulnerable training envi
 |---|---|---|
 | [Healthcare: 1 security assessment](case-studies/healthcare-1.md) | Public VulnHub CTF and TAFE study | Web application testing, risk analysis, remediation, reporting |
 | [Jangow: 1.0.1 completion summary](case-studies/jangow-1.0.1.md) | Public VulnHub CTF | Enumeration discipline and boot-to-root methodology |
+| [Cyber-range containment assessment](case-studies/cyber-range-containment-assessment.md) | Owner-operated private lab | Network isolation, virtualization boundaries, evidence-led validation |
 
 ## Skills demonstrated
 
