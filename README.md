@@ -26,7 +26,12 @@ A multi-document TAFE assessment based on the public, intentionally vulnerable H
 
 #### Incident-response assessment
 
-Related IRP and IRX assessment documents will be grouped here once their public versions have been reviewed and redacted.
+A two-document TAFE group assessment covering an incident-response plan (IRP) and an incident-response exercise (IRX). The public versions preserve the group assessment material and Andrew Byrne's privilege-escalation playbook; peer-authored playbooks and all student identifiers are replaced with clear in-document notices.
+
+| Document | Focus |
+|---|---|
+| [Incident response plan](featured-work/incident-response-assessment/Gelos_Incident_Response_Plan_Public_Portfolio.docx) | IRP governance, response process, and privilege-escalation playbook |
+| [IRX implementation report](featured-work/incident-response-assessment/Gelos_IRX_Implementation_Public_Portfolio.docx) | IRX planning, execution, monitoring observations, and after-action reporting |
 
 ### CTFs
 
