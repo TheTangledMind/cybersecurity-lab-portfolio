@@ -144,7 +144,7 @@ HOST_UPLINK=$(ip route show default | awk '
 
 if [ -z "$HOST_UPLINK" ]; then
     echo "[CR-Router] ERROR: No host default-route interface found."
-    echo "[CR-Router] Connect Axis-Lab to an uplink and retry."
+    echo "[CR-Router] Connect Host to an uplink and retry."
     exit 1
 fi
 
