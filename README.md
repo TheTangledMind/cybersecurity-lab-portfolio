@@ -10,7 +10,9 @@ This portfolio presents work completed in intentionally vulnerable training envi
 
 | Work | Environment | Focus |
 |---|---|---|
-| [Cyber-range containment assessment](case-studies/cyber-range-containment-assessment.md) | Owner-operated private lab | Network isolation, virtualization boundaries, evidence-led validation |
+| [Cyber-range containment assessment](featured-work/Cyber-Range/cyber-range-containment-assessment.md) | Owner-operated private lab | Network isolation, virtualization boundaries, evidence-led validation |
+| [Cr-router-init.sh](featured-work/Cyber-Range/scripts/cr-router-init.sh) | Initialisation Script for Range Network | bash, namespace, veths |
+| [Network Image](featured-work/images/cyber-range-v2.png) | Cyber-range.png | visual map of the range design |
 
 ### TAFE
 
